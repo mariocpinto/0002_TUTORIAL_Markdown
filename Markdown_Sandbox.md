@@ -15,6 +15,8 @@ _Let's begin:_
 [Links](#links)  
 [Images](#images)  
 [Blockquotes](#blockquotes)
+[Lists](#lists)  
+[Paragraphs](#paragraphs)
 
 
 #### _Emphasis_
@@ -56,3 +58,45 @@ or with a reference link like this one
 >
 > By ppropriately using the '>' symbol multiple lines can appear as one blockquote.
 
+#### Lists
+
+Lists can be ordered, like this:
+1. Item one
+2. Item two
+3. Item three
+
+or unordered, like this:
+* Apples
+* Oranges
+* Bananas
+
+You can also have multi level lists like this:
+* Top level
+ * Sub level
+ * Sub level
+   * Sub sub level
+    * Sub sub level
+
+or this:
+
+1. Top level
+ 2. Sub level
+   3. Sub level
+    4. Sub sub level
+
+You can even have text between the levels like this:
+
+1. Top level  
+ Then some description and then
+ 2. The sub level
+
+#### Paragraphs
+
+You can either have hard breaks between lines like this line...
+
+..and this line.
+
+OR
+
+You can have soft breaks between lines, like this line  
+and this one. (This requires you to have two 'spaces' at the end of the previous line).
