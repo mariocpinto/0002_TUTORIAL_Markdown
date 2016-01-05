@@ -2,10 +2,9 @@
 
 This is a sandbox file demonstrating various markdown commands. 
 You can take a look at the raw text and the corresponding rendering for various examples below. 
-The examples here are a practice exercise for me, and are based on the following tutorials:
+The examples here are a practice exercise for me, and are based on the following tutorial:
 
 * [http://markdowntutorial.com/](http://markdowntutorial.com/)
-* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 _Let's begin:_
 
@@ -100,3 +99,8 @@ OR
 
 You can have soft breaks between lines, like this line  
 and this one. (This requires you to have two 'spaces' at the end of the previous line).
+
+...and that's it.
+
+For some additional features (some non-standard) you can look at this cheatsheet:
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
