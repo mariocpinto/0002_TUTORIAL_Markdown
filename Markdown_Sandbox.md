@@ -9,13 +9,13 @@ The examples here are a practice exercise for me, and are based on the following
 
 _Let's begin:_
 
-#Contents:
-[Emphasis](#bold-and-italics)  
+### Contents:
+[Emphasis](#emphasis)  
 [Headers](#headers)  
 [Links](#links)  
 
 
-#### **Bold** and _Italics_
+#### _Emphasis_
 
 A **single** bold word and a _single_ word in italics.  
 **Some more words** in bold and a _few more_ in italics.  
@@ -33,3 +33,7 @@ Here are examples of different types of headers:
 
 #### Links
 
+Links can either be an inline links like [this one](www.example.com) or a reference links like [this one](ref 1).  
+In addition also take a look at how the entries in the [contents section](#contents) link to different parts of this document.
+
+[ref 1]: www.google.com
