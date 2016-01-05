@@ -33,7 +33,7 @@ Here are examples of different types of headers:
 
 #### Links
 
-Links can either be an inline links like [this one](www.example.com) or a reference links like [this one](ref 1).  
+Links can either be an inline links like [this one](http://www.example.com) or a reference links like [this one][ref 1].  
 In addition also take a look at how the entries in the [contents section](#contents) link to different parts of this document.
 
-[ref 1]: www.google.com
+[ref 1]: http://www.google.com
