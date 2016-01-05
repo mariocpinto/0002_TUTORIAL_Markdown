@@ -13,6 +13,8 @@ _Let's begin:_
 [Emphasis](#emphasis)  
 [Headers](#headers)  
 [Links](#links)  
+[Images](#images)  
+[Blockquotes](#blockquotes)
 
 
 #### _Emphasis_
@@ -31,9 +33,26 @@ Here are examples of different types of headers:
 ##### Level _Five_
 ###### Level _Six_
 
+
 #### Links
 
-Links can either be an inline links like [this one](http://www.example.com) or a reference links like [this one][ref 1].  
+A Link can either be an inline links like [this one](http://www.example.com) or a reference link like [this one][ref 1].  
 In addition also take a look at how the entries in the [contents section](#contents) link to different parts of this document.
 
 [ref 1]: http://www.google.com
+
+#### Images
+
+Just like links images can either be inline like this one:  
+![inline image](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)  
+or with a reference link like this one  
+![reference image][reference image link]
+
+[reference image link]: https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg
+
+#### Blockquotes
+
+> Blockquotes can be used to call special attention to a quote
+>
+> By ppropriately using the '>' symbol multiple lines can appear as one blockquote.
+
