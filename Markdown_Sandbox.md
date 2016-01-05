@@ -9,6 +9,12 @@ The examples here are a practice exercise for me, and are based on the following
 
 _Let's begin:_
 
+#Contents:
+[Emphasis](#bold-and-italics)  
+[Headers](#headers)  
+[Links](#links)  
+
+
 #### **Bold** and _Italics_
 
 A **single** bold word and a _single_ word in italics.  
@@ -16,4 +22,14 @@ A **single** bold word and a _single_ word in italics.
 Finally they **_tango together_**.
 
 #### Headers
+
+Here are examples of different types of headers:
+# Level _One_
+## Level _Two_
+### Level _Three_
+#### Level _Four_
+##### Level _Five_
+###### Level _Six_
+
+#### Links
 
