@@ -1,5 +1,5 @@
 # 002_Markdown_Tutorial
-This project is a markdown sandbox - You can take a look at the plain text and corresponding output for different markdown 'syntax'.
+This project is a [markdown sandbox](https://github.com/mariocpinto/002_Markdown_Tutorial/blob/master/Markdown_Sandbox.md) - You can take a look at the plain text and corresponding output for different markdown 'syntax' examples.
 
 **References:**
 
