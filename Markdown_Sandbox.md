@@ -105,3 +105,5 @@ and this one. (This requires you to have two 'spaces' at the end of the previous
 
 For some additional features (some non-standard) you can look at this cheatsheet:
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Also check out [Github's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
