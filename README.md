@@ -7,3 +7,4 @@ This project is a [markdown sandbox](https://github.com/mariocpinto/002_Markdown
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+To refer to notes for other courses I have taken, you can refer to [this page](https://github.com/mariocpinto/0000_Lists/blob/master/MOOCs_and_Tutorials.md).
